@@ -34,7 +34,7 @@ RUN apt-add-repository ppa:webupd8team/java -y && \
 	apt-get install -qq -y oracle-java7-installer git
 
 ##
-# Install mave 3.3.3
+# Install maven 3.3.3
 ##
 RUN wget http://mirrors.sonic.net/apache/maven/maven-3/3.3.3/binaries/apache-maven-3.3.3-bin.tar.gz && \
 	tar -zxf apache-maven-3.3.3-bin.tar.gz && \
