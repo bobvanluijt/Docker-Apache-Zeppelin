@@ -1,5 +1,5 @@
 # Docker for Apache Zeppelin
-Docker Apache Zeppelin with Hadoop and Spark (single instance)
+Docker [Apache Zeppelin](https://zeppelin.incubator.apache.org/) with [Hadoop](https://hadoop.apache.org/) and [Spark](http://spark.apache.org/) (single instance)
 
 _Note: This Dockerfile is created for the [Futuretext Datascience for IoT course](http://www.opengardensblog.futuretext.com/archives/2015/09/data-science-for-internet-of-things-practitioner-course.html)._
 
