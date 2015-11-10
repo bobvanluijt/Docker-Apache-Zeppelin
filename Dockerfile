@@ -81,4 +81,4 @@ EXPOSE 8080 8081
 ##
 # Start the deamon
 ##
-CMD bin/zeppelin-daemon.sh start
+CMD ["bin/zeppelin-daemon.sh", "start"]
